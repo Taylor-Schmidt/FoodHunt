@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937730736765",
+    "project_id": "foodhunt-8e3ac",
+    "storage_bucket": "foodhunt-8e3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937730736765:android:d2e3c4f8423db06195a714",
+        "android_client_info": {
+          "package_name": "com.mypackage.foodhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937730736765-38c9gr6mnqolkvf6i7u8vj4utjaesdeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtW1-zdTJz-vYUHJyzOZOR9of67wPBf70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937730736765-38c9gr6mnqolkvf6i7u8vj4utjaesdeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
